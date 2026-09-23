@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "9c0cc983ca39c7594dea954c",
+  "owner": "rtparg",
+  "repo": "page-330b49b39949d4230127e352",
+  "title": "白蘑菇",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "330b49b39949d4230127e352",
+      "a": "白蘑菇",
+      "b": "稳定全球clash加速器",
+      "entity": "白蘑菇",
+      "brand": "白蘑菇",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "9bda0f0b698383d5b6cc3573dd9b2a527e1b3894cbd9bf8eee17ce8fb90c3505",
+      "content": {
+        "primary_entity": "白蘑菇",
+        "keyword1": "白蘑菇",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据手机、电脑或路由器等设备选择对应的 Clash 客户端，再导入白蘑菇订阅链接即可使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据设备数量与月流量挑选合适套餐，导入订阅即可开始使用白蘑菇。",
+          "AI_CLOSING_TITLE": "选好套餐，连接更稳",
+          "AI_DESCRIPTION": "，白蘑菇提供基础版、旗舰版与团队版三档套餐，分别覆盖 100GB、300GB 与 1000GB 月流量，支持 3 台、5 台与 20 台设备同时在线。旗舰版包含 IPLC 专线游戏加速与全节点原生流媒体解锁，团队版提供 VIP 专属高带宽节点。按年付可节省费用，适合不同规模的个人与团队使用。",
+          "AI_FEATURES_INTRO": "从流量、设备数量与线路类型出发，快速匹配合适的订阅方案。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，支持 3 台设备，适合轻度浏览与偶尔观看视频。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量，支持 5 台设备，含 IPLC 专线与流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量，支持 20 台设备，提供专属高带宽节点与定制路由。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "按设备数量选档",
+          "AI_FEATURE_TITLE_3": "按线路需求选档",
+          "AI_GUIDE_INTRO": "三步完成从选择到配置的流程，先定套餐，再看设备，最后导入订阅。",
+          "AI_GUIDE_TITLE": "使用流程",
+          "AI_HERO_INTRO": "白蘑菇面向需要稳定全球连接的用户，提供多档 Clash 订阅套餐，覆盖不同流量与设备数量需求。选择套餐后按设备文档导入订阅，即可在常用客户端上使用。",
+          "AI_HERO_SUBTITLE": "稳定连接，套餐灵活",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备",
+          "AI_HIGHLIGHT_3": "IPLC 专线游戏优化",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版平衡流量与专线，团队版面向多设备高流量场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据月流量和同时在线设备数量，对比基础版、旗舰版与团队版的差异。",
+          "AI_STEP_TEXT_2": "确认所选套餐是否满足当前设备类型与线路需求，如游戏加速或流媒体解锁。",
+          "AI_STEP_TEXT_3": "在对应客户端中按照订阅导入说明完成配置，即可开始使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "白蘑菇套餐一览",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量、支持3台设备，适合手机与电脑轻度使用；旗舰版每月300GB、5台设备，适合多设备日常与流媒体。",
+          "AI_FAQ_ANSWER_2": "登录后进入订阅管理，复制订阅链接或下载配置文件，按所选客户端的导入说明操作即可。",
+          "AI_FAQ_ANSWER_3": "团队版支持最多20台设备同时在线，如需更多设备或企业定制路由，可通过专属客户经理沟通。",
+          "AI_FAQ_ANSWER_4": "可以，套餐支持按月付费，也提供年付方案，按年付更划算，可按使用周期灵活切换。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含IPLC专线游戏加速优化和高带宽节点，对延迟敏感的游戏或远程办公体验更稳定。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版流量与设备数有什么区别？",
+          "AI_FAQ_QUESTION_2": "如何导入订阅到客户端？",
+          "AI_FAQ_QUESTION_3": "团队版最多支持多少台设备同时在线？",
+          "AI_FAQ_QUESTION_4": "可以按月付费吗？年付有优惠吗？",
+          "AI_FAQ_QUESTION_5": "旗舰版相比基础版在游戏加速方面有何优势？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "chuanzhangyunjc.com",
+    "host": "chuanzhangyunjc.com"
+  },
+  "file_hashes": {
+    "index.html": "cffb1579c2a9d6d4506fd2dfa63bf179228942ae957c24d0d8400ff1aa97cef7",
+    "sitemap.xml": "7a4a4cde045933d12edbc21092c3ae1b7290b9c2d346f6191c3db6cf7895b823",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "46766d73982ca32cb0db4f9e8313118faeddb261791aaf2910ab3c12edd8ab5e",
+    "robots.txt": "0f8229dc24c5128791536f5c6314289f19399a6fcbd03dd33d3a82bbc5ae979c",
+    "c39cb88006fb6e8f5c4b2dc8932cd7b6.txt": "143763905eb71360864133008d04f032c6175857370610d26d9f6501105a19e6"
+  },
+  "revision": "76d699574419f38188c2f919702c89a597eb87cd45709a41f00fffe10d62d632"
+}
